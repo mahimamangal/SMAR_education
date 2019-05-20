@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.jayatulsiani.smar">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name=".AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/web_hi_res_512"
+        android:label="SmAR"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning"
+        tools:replace="android:icon,android:theme,android:label">
+        <activity android:name=".ChartActivity1"></activity>
+        <activity android:name=".ChartActivity" />
+        <activity android:name=".chem_MainActivity" />
+        <activity android:name=".bio_MainActivity" />
+        <!--
+        <activity android:name=".Dashboard">
+
+        </activity>
+        <activity
+            android:name=".sidemenubar"
+            android:label="@string/title_activity_sidemenubar"
+            android:theme="@style/AppTheme" />
+        -->
+        <activity android:name=".StartLogin"
+
+            >
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".Registration" />
+        <activity android:name=".NavActivity" />
+        <activity android:name=".forgotpassword" />
+        <activity android:name=".MultipleSceneActivity"
+
+            android:screenOrientation="sensor"
+            android:configChanges="orientation|screenLayout|screenSize"/>
+    </application>
+
+</manifest>

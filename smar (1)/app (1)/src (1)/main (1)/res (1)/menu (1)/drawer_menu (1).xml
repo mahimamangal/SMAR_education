@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_quiz"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Quiz"></item>
+
+        <item android:id="@+id/nav_test"
+            android:icon="@drawable/bar"
+            android:title="Test Analysis"></item>
+
+        <item android:id="@+id/nav_message"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="Messages"></item>
+
+        <!--<item android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Share"></item>
+-->
+        <item android:id="@+id/nav_logout"
+            android:icon="@drawable/if_signin_59203"
+            android:title="Log Out"
+            android:onClick="logoutUser"></item>
+
+    </group>
+
+
+</menu>

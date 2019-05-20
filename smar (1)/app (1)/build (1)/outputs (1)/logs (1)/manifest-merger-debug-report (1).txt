@@ -1,0 +1,385 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:2:1-76:12
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\083bab97601cb40781b3a4c4f535b5bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\da14c99d4eaf0c2ba8ca4bf7ba20a307\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e4710881456a72bfd7be5bcca21b5c7f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\176ce970186b0bd65b90333c4967dbf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\70da6286ea9c289728ac9cd6a8a1a431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4fa8aa8ceb5526a75a79531bcd11cc36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\b4dcf1cc9bdf75d35f104ea0d84f97d1\AndroidManifest.xml:1:70-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ec56410561f5c5d7b3f95a5d187c3f41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\15684cbe2fd5f562b5df6000d71aa3bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b670069c9852663553a1cefd16139f11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\786cb0d6c61fe770d346c14e108ac2cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\521290a2acbd071c24a572cb321891bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3ec5ace35760a3f7a55390f5dbb3858d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\e211971b536507707d7eb049a09e4a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d73c10004a46f3cd130ab3dea11d866c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3d702054043349e9041e63622160abd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c86b3519e5ca40121e55a1e3d4b9130e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\eda840427cc5a39a7fe1ec9abfe83a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\17bf4546f3098fe5ffd9d2a97fc26fc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8664b523034161e1e0e69f5d6d3009a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\56b3e6431d3575cc0b201366a5031dc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e34196fcb54fbe64bcd34b31bb4424d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39704d3661904e8a206779acfb59cdf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4bb8af886ebc5b0e5c906793b14054fa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f080c8a838e7b891d5f6e1ef5d362480\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8e41af27544e525a003d6de53d998e61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\18099ebcc4c974f7312dad31429592be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3695477efb7fa80bb9ca33df2c0987bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5e576c2881a6ac81c629bb84a32b8b2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\707cf204912c13c98e9c60f6e203d9ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ccbbf95e71ac3baaf8fa5a0f2d03b262\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9834fe770095b38678b402efdc527ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6cb4d7c1208e6150e25f7c63320f4657\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\922eaa9ba77fef0694024753dcfc90bb\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:16:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:22:5-67
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:22:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:13:5-55:19
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:44:5-74:19
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:44:5-74:19
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:19:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\083bab97601cb40781b3a4c4f535b5bc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\083bab97601cb40781b3a4c4f535b5bc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e4710881456a72bfd7be5bcca21b5c7f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e4710881456a72bfd7be5bcca21b5c7f\AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\b4dcf1cc9bdf75d35f104ea0d84f97d1\AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\b4dcf1cc9bdf75d35f104ea0d84f97d1\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39704d3661904e8a206779acfb59cdf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39704d3661904e8a206779acfb59cdf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4bb8af886ebc5b0e5c906793b14054fa\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4bb8af886ebc5b0e5c906793b14054fa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39704d3661904e8a206779acfb59cdf\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:17:9-29
+		REJECTED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:46:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:19:18-44
+	tools:ignore
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:21:9-48
+	android:roundIcon
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:16:9-46
+		REJECTED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:45:9-40
+	android:allowBackup
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:20:9-40
+		REJECTED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:47:9-50
+	tools:replace
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:22:9-65
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:14:9-38
+activity#com.example.jayatulsiani.smar.ChartActivity1
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:23:19-49
+activity#com.example.jayatulsiani.smar.ChartActivity
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.jayatulsiani.smar.chem_MainActivity
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:25:19-52
+activity#com.example.jayatulsiani.smar.bio_MainActivity
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:26:19-51
+activity#com.example.jayatulsiani.smar.StartLogin
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:36:9-47:20
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:36:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:40:13-45:29
+action#android.intent.action.MAIN
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.jayatulsiani.smar.Registration
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:48:9-50
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:48:19-47
+activity#com.example.jayatulsiani.smar.NavActivity
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:49:9-49
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:49:19-46
+activity#com.example.jayatulsiani.smar.forgotpassword
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:50:9-52
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:50:19-49
+activity#com.example.jayatulsiani.smar.MultipleSceneActivity
+ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:51:9-54:74
+	android:screenOrientation
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:53:13-47
+	android:configChanges
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:54:13-72
+	android:name
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:51:19-56
+uses-sdk
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:9:5-11:41
+MERGED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:9:5-11:41
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\083bab97601cb40781b3a4c4f535b5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\083bab97601cb40781b3a4c4f535b5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\da14c99d4eaf0c2ba8ca4bf7ba20a307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\da14c99d4eaf0c2ba8ca4bf7ba20a307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e4710881456a72bfd7be5bcca21b5c7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e4710881456a72bfd7be5bcca21b5c7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\176ce970186b0bd65b90333c4967dbf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\176ce970186b0bd65b90333c4967dbf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\70da6286ea9c289728ac9cd6a8a1a431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\70da6286ea9c289728ac9cd6a8a1a431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4fa8aa8ceb5526a75a79531bcd11cc36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4fa8aa8ceb5526a75a79531bcd11cc36\AndroidManifest.xml:20:5-44
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\b4dcf1cc9bdf75d35f104ea0d84f97d1\AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\b4dcf1cc9bdf75d35f104ea0d84f97d1\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ec56410561f5c5d7b3f95a5d187c3f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ec56410561f5c5d7b3f95a5d187c3f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\15684cbe2fd5f562b5df6000d71aa3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\15684cbe2fd5f562b5df6000d71aa3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b670069c9852663553a1cefd16139f11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b670069c9852663553a1cefd16139f11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\786cb0d6c61fe770d346c14e108ac2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\786cb0d6c61fe770d346c14e108ac2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\521290a2acbd071c24a572cb321891bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\521290a2acbd071c24a572cb321891bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3ec5ace35760a3f7a55390f5dbb3858d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3ec5ace35760a3f7a55390f5dbb3858d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\e211971b536507707d7eb049a09e4a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\e211971b536507707d7eb049a09e4a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d73c10004a46f3cd130ab3dea11d866c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d73c10004a46f3cd130ab3dea11d866c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3d702054043349e9041e63622160abd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3d702054043349e9041e63622160abd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c86b3519e5ca40121e55a1e3d4b9130e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c86b3519e5ca40121e55a1e3d4b9130e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\eda840427cc5a39a7fe1ec9abfe83a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\eda840427cc5a39a7fe1ec9abfe83a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\17bf4546f3098fe5ffd9d2a97fc26fc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\17bf4546f3098fe5ffd9d2a97fc26fc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8664b523034161e1e0e69f5d6d3009a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8664b523034161e1e0e69f5d6d3009a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\56b3e6431d3575cc0b201366a5031dc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\56b3e6431d3575cc0b201366a5031dc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e34196fcb54fbe64bcd34b31bb4424d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e34196fcb54fbe64bcd34b31bb4424d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39704d3661904e8a206779acfb59cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c39704d3661904e8a206779acfb59cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4bb8af886ebc5b0e5c906793b14054fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4bb8af886ebc5b0e5c906793b14054fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f080c8a838e7b891d5f6e1ef5d362480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f080c8a838e7b891d5f6e1ef5d362480\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8e41af27544e525a003d6de53d998e61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8e41af27544e525a003d6de53d998e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\18099ebcc4c974f7312dad31429592be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\18099ebcc4c974f7312dad31429592be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3695477efb7fa80bb9ca33df2c0987bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3695477efb7fa80bb9ca33df2c0987bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5e576c2881a6ac81c629bb84a32b8b2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5e576c2881a6ac81c629bb84a32b8b2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\707cf204912c13c98e9c60f6e203d9ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\707cf204912c13c98e9c60f6e203d9ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ccbbf95e71ac3baaf8fa5a0f2d03b262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ccbbf95e71ac3baaf8fa5a0f2d03b262\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9834fe770095b38678b402efdc527ad9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9834fe770095b38678b402efdc527ad9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6cb4d7c1208e6150e25f7c63320f4657\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6cb4d7c1208e6150e25f7c63320f4657\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\922eaa9ba77fef0694024753dcfc90bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\922eaa9ba77fef0694024753dcfc90bb\AndroidManifest.xml:20:5-44
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		ADDED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:14:9-34
+uses-feature#0x00020000
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:20:19-51
+uses-permission#android.permission.CAMERA
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:23:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:25:5-27:36
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:27:9-33
+		MERGED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:25:5-27:36
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:29:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:32:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:35:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:38:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:41:9-72
+activity#com.Biology.Brain.UnityPlayerActivity
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:48:9-63:20
+	android:screenOrientation
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:54:13-51
+	android:label
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:52:13-45
+	android:launchMode
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:53:13-44
+	android:hardwareAccelerated
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:51:13-48
+	android:configChanges
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:50:13-194
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:49:13-65
+meta-data#unityplayer.UnityActivity
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:60:13-62:40
+	android:value
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:62:17-37
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:61:17-57
+meta-data#unity.build-id
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:65:9-67:68
+	android:value
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:67:13-65
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:66:13-42
+meta-data#unity.splash-mode
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:68:9-70:33
+	android:value
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:70:13-30
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:69:13-45
+meta-data#unity.splash-enable
+ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:71:9-73:36
+	android:value
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:73:13-33
+	android:name
+		ADDED from [:e3] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\Brain-debug.aar\6feb701d37e33ecacdee8d3154a25350\AndroidManifest.xml:72:13-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:17:22-78
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Megha\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\3e47f576a714beb2141ba9cea472bb6b\AndroidManifest.xml:28:13-54
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\finalyear\SmAR-complete with bar graph\smar\app\src\main\AndroidManifest.xml:2:1-57:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:e3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Brain-debug.aar/6feb701d37e33ecacdee8d3154a25350/jars/libs/unity-classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Brain-debug.aar/6feb701d37e33ecacdee8d3154a25350/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Brain-debug.aar/6feb701d37e33ecacdee8d3154a25350/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
